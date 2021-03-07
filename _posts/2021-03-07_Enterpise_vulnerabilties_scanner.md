@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to build an enterpise vulnerabilties using Zabbix Vuls and SaltStack.   
-subtitle: A comprensive step by step guide 
+subtitle: A comprensive guide to bild a cool vulnerability scanner in your system
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
