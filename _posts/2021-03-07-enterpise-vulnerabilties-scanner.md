@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to build an enterpise vulnerabilties detection system using Zabbix Vuls and a SaltStack.   
-subtitle: A fully scalable OpenSource solution to mange the lificycle keep your ecosystem secure.
+title: Building an enterpise vulnerabilties detection system using Vuls Zabbix and SaltStack.
+subtitle: A fully scalable OpenSource solution to keep your ecosystem secure.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
